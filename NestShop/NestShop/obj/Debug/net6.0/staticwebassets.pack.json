@@ -341,6 +341,14 @@
       "PackagePath": "staticwebassets\\client\\assets\\imgs\\page\\page-404.png"
     },
     {
+      "Id": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\products\\cola-hover.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgs\\products\\cola-hover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\products\\cola.jpg",
+      "PackagePath": "staticwebassets\\client\\assets\\imgs\\products\\cola.jpg"
+    },
+    {
       "Id": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\shop\\cat-1.png",
       "PackagePath": "staticwebassets\\client\\assets\\imgs\\shop\\cat-1.png"
     },

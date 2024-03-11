@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WltkrbzWjp3DYSzM2BB8z6fonU+34E0VnxRywWMzI0s=",
+  "Hash": "dEjKWFQjENWxtmx4YekcUshCSi8J0AZsidBCjTKDUTs=",
   "Source": "NestShop",
   "BasePath": "_content/NestShop",
   "Mode": "Default",
@@ -1460,6 +1460,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\client\\assets\\imgs\\page\\page-404.png"
+    },
+    {
+      "Identity": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\products\\cola.jpg",
+      "SourceId": "NestShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\",
+      "BasePath": "_content/NestShop",
+      "RelativePath": "client/assets/imgs/products/cola.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\assets\\imgs\\products\\cola.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\products\\cola-hover.jpg",
+      "SourceId": "NestShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\",
+      "BasePath": "_content/NestShop",
+      "RelativePath": "client/assets/imgs/products/cola-hover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\assets\\imgs\\products\\cola-hover.jpg"
     },
     {
       "Identity": "C:\\Users\\99450\\source\\repos\\NestShop\\NestShop\\wwwroot\\client\\assets\\imgs\\shop\\cat-1.png",
